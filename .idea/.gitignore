@@ -1,0 +1,9 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\Prog\Java\Proects and info\Web\Bots\TestBot\.idea/dataSources/
+/../../../../../../../../:\Prog\Java\Proects and info\Web\Bots\TestBot\src/main/resources
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
